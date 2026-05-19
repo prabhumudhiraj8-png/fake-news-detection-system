@@ -28,3 +28,8 @@ Confidence level
 Summary explanation
 Reliability metrics
 Key indicators
+The Fake News Detection System is a machine learning-based project developed to identify whether a news article is real or fake. The system uses Natural Language Processing (NLP) and machine learning algorithms to analyze news content and classify it accurately. It helps reduce the spread of misinformation on social media and digital platforms.
+
+The project is developed using technologies such as Python, Scikit-learn, Pandas, NumPy, and Flask. The dataset is preprocessed and converted into numerical form using TF-IDF Vectorizer before training machine learning models like Logistic Regression, Naive Bayes, and Decision Tree.
+
+The system provides fast prediction, improves news verification, and creates awareness about fake information. It is an excellent project for demonstrating skills in machine learning, artificial intelligence, NLP, and web development.
